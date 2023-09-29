@@ -68,4 +68,4 @@
     Uses http PUT method http://localhost:8088/vendor?vendor_params
 
   #### GetRevenueByVendor:
-    Uses http GET method http://localhost:8088/vendor?id=id_of_vendor
+    Uses http GET method http://localhost:8088/revenue?id=id_of_vendor
