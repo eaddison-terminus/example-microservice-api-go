@@ -10,8 +10,11 @@
   it is very fast:)
 
 ## Starting the Service
+  ### Executing the compiled binary
 `cd cmd`  
 `go run *.go`  
+  ### Running a container image
+`docker compose up --build`  
 
 ## Entity Parameters:
 - Order
